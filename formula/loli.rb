@@ -5,21 +5,21 @@
 class Loli < Formula
   desc "Install Loli CLI with brew and find animes passing images"
   homepage "https://github.com/ci-monk/loli"
-  version "1.13.1"
+  version "1.14.0"
   license "MIT"
 
   on_macos do
     if Hardware::CPU.intel?
-      url "https://github.com/ci-monk/loli/releases/download/v1.13.1/loli_v1.13.1_Darwin-x86_64.tar.gz"
-      sha256 "f3a092014f7269931cf0b2f97fc07d025c458dd5822f03cdb8f900df7d16fc44"
+      url "https://github.com/ci-monk/loli/releases/download/v1.14.0/loli_v1.14.0_Darwin-x86_64.tar.gz"
+      sha256 "02b2a88af02d9711a3bdd204ff82fda3df4f0f4d79166263a6f8bc4fe498d204"
 
       def install
         bin.install "loli"
       end
     end
     if Hardware::CPU.arm?
-      url "https://github.com/ci-monk/loli/releases/download/v1.13.1/loli_v1.13.1_Darwin-arm64.tar.gz"
-      sha256 "285553ab33541a801e76c771d91cfa2c3239510d2d3cad2d170d1c62cf308199"
+      url "https://github.com/ci-monk/loli/releases/download/v1.14.0/loli_v1.14.0_Darwin-arm64.tar.gz"
+      sha256 "6ebb954586529aa19c57f4d1dc81c1c17a75b34f9431d31fddbf2a782fedfe68"
 
       def install
         bin.install "loli"
@@ -29,16 +29,16 @@ class Loli < Formula
 
   on_linux do
     if Hardware::CPU.arm? && Hardware::CPU.is_64_bit?
-      url "https://github.com/ci-monk/loli/releases/download/v1.13.1/loli_v1.13.1_Linux-arm64.tar.gz"
-      sha256 "10581ad71cdfa1acf38544e16d4e1516e3132d6c5ad1a28cd083e611256ddcdd"
+      url "https://github.com/ci-monk/loli/releases/download/v1.14.0/loli_v1.14.0_Linux-arm64.tar.gz"
+      sha256 "c9ffa5383b708c0a9278264fd013825fe6e2e8b8486e57fc4c59da132f98a54a"
 
       def install
         bin.install "loli"
       end
     end
     if Hardware::CPU.intel?
-      url "https://github.com/ci-monk/loli/releases/download/v1.13.1/loli_v1.13.1_Linux-x86_64.tar.gz"
-      sha256 "5721b8571a3c0179bca35a38fb509ef5c8c5c874d32d47b0a9455b63db1a48ed"
+      url "https://github.com/ci-monk/loli/releases/download/v1.14.0/loli_v1.14.0_Linux-x86_64.tar.gz"
+      sha256 "3dbe0753d3013147ff299005037cc9355417f1755cb1c066ac0261920928c484"
 
       def install
         bin.install "loli"
