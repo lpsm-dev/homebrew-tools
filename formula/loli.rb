@@ -5,21 +5,21 @@
 class Loli < Formula
   desc "Install Loli CLI with brew and find animes passing images"
   homepage "https://github.com/ci-monk/loli"
-  version "1.14.0"
+  version "1.14.1"
   license "MIT"
 
   on_macos do
     if Hardware::CPU.intel?
-      url "https://github.com/ci-monk/loli/releases/download/v1.14.0/loli_v1.14.0_Darwin-x86_64.tar.gz"
-      sha256 "02b2a88af02d9711a3bdd204ff82fda3df4f0f4d79166263a6f8bc4fe498d204"
+      url "https://github.com/ci-monk/loli/releases/download/v1.14.1/loli_v1.14.1_Darwin-x86_64.tar.gz"
+      sha256 "c6001b269ed5ae2a350f95484388636b90acb8d62f46868e641495dcb4c3f77c"
 
       def install
         bin.install "loli"
       end
     end
     if Hardware::CPU.arm?
-      url "https://github.com/ci-monk/loli/releases/download/v1.14.0/loli_v1.14.0_Darwin-arm64.tar.gz"
-      sha256 "6ebb954586529aa19c57f4d1dc81c1c17a75b34f9431d31fddbf2a782fedfe68"
+      url "https://github.com/ci-monk/loli/releases/download/v1.14.1/loli_v1.14.1_Darwin-arm64.tar.gz"
+      sha256 "ed0e5c4dee3236bef579d2cc0b981a31e31e94b6fb55e3d4f94f23751344183e"
 
       def install
         bin.install "loli"
@@ -28,17 +28,17 @@ class Loli < Formula
   end
 
   on_linux do
-    if Hardware::CPU.arm? && Hardware::CPU.is_64_bit?
-      url "https://github.com/ci-monk/loli/releases/download/v1.14.0/loli_v1.14.0_Linux-arm64.tar.gz"
-      sha256 "c9ffa5383b708c0a9278264fd013825fe6e2e8b8486e57fc4c59da132f98a54a"
+    if Hardware::CPU.intel?
+      url "https://github.com/ci-monk/loli/releases/download/v1.14.1/loli_v1.14.1_Linux-x86_64.tar.gz"
+      sha256 "95303d159a5b7caf90d705d57e6a011222cd480bfd37bd92459eb009aa447fd5"
 
       def install
         bin.install "loli"
       end
     end
-    if Hardware::CPU.intel?
-      url "https://github.com/ci-monk/loli/releases/download/v1.14.0/loli_v1.14.0_Linux-x86_64.tar.gz"
-      sha256 "3dbe0753d3013147ff299005037cc9355417f1755cb1c066ac0261920928c484"
+    if Hardware::CPU.arm? && Hardware::CPU.is_64_bit?
+      url "https://github.com/ci-monk/loli/releases/download/v1.14.1/loli_v1.14.1_Linux-arm64.tar.gz"
+      sha256 "9900855125cd8ac5630ee68b15baaeadb3ae9199713935b25a6b9fcd50af0043"
 
       def install
         bin.install "loli"
