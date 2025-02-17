@@ -87,7 +87,7 @@ Gostaria de contribuir? Isso é ótimo! Temos um guia de contribuição para te 
 
 # Versionamento
 
-Para verificar o histórico de mudanças, acesse o arquivo [**CHANGELOG.md**](CHANGELOG.md).
+Para verificar o histórico de mudanças do projeto, acesse o arquivo [**CHANGELOG.md**](CHANGELOG.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
