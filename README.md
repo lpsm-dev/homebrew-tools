@@ -64,7 +64,7 @@ O Homebrew é um gerenciador de pacotes para macOS (ou Linux), que permite insta
 
 ## Taps
 
-Os `taps` são repositórios de terceiros que fornecem pacotes instaláveis (fórmulas) para o homebrew. Eles permitem que você instale pacotes adicionais que não estão disponíveis no repositório oficial do homebrew.
+As **Taps** são repositórios de terceiros que fornecem pacotes instaláveis (fórmulas) para o Homebrew. Eles permitem que você instale pacotes adicionais que não estão disponíveis no repositório oficial do Homebrew.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
