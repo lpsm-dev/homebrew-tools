@@ -60,7 +60,7 @@ Minha maior motivação é compartilhar pacotes personalizados que eu desenvolvi
 
 ## O que é?
 
-O homebrew é um gerenciador de pacotes para macOS (ou Linux), que permite instalar e gerenciar aplicativos e ferramentas de forma simples e eficiente.
+O Homebrew é um gerenciador de pacotes para macOS (ou Linux), que permite instalar e gerenciar aplicativos e ferramentas de forma simples e eficiente em seu terminal.
 
 ## Taps
 
