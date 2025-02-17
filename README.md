@@ -3,9 +3,9 @@
 
 <a name="readme-top"></a>
 
-<img src="https://github.com/lpsm-dev/lpsm-dev/blob/main/.github/assets/homebrew.jpeg" width="350"/>
-
 Hello Human 👽! Bem-vindo ao meu repositório 👋
+
+<img src="https://github.com/lpsm-dev/lpsm-dev/blob/main/.github/assets/homebrew.jpeg" width="350"/>
 
 Aqui você encontrará **minhas fórmulas do Homebrew** para a **instalação de ferramentas pessoais**. Fique à vontade para explorar, colaborar e compartilhar 🚀
 
