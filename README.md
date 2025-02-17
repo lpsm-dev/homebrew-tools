@@ -3,6 +3,8 @@
 
 <a name="readme-top"></a>
 
+<img src="https://github.com/lpsm-dev/lpsm-dev/blob/main/.github/assets/homebrew.jpeg" width="350"/>
+
 Hello Human 👽! Bem-vindo ao meu repositório 👋
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://www.conventionalcommits.org/en/v1.0.0/)
