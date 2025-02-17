@@ -41,6 +41,8 @@ Fórmulas Homebrew que permitem a instalação de ferramentas através do gerenc
 
 # Visão Geral
 
+Neste repositório, você encontrará uma coleção de fórmulas para o homebrew, que permitem instalar pacotes adicionais que não estão disponíveis no repositório oficial do homebrew.
+
 # Homebrew
 
 ## O que é?
