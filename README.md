@@ -7,6 +7,8 @@ Hello Human 👽! Bem-vindo ao meu repositório 👋
 
 <img src="https://github.com/lpsm-dev/lpsm-dev/blob/main/.github/assets/homebrew.jpeg" width="350"/>
 
+<br/>
+
 Aqui você encontrará **meus pacotes do Homebrew** para a **instalação de ferramentas que eu criei**. Fique à vontade para explorar, colaborar e compartilhar 🚀
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://www.conventionalcommits.org/en/v1.0.0/)
