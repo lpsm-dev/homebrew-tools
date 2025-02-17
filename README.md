@@ -52,7 +52,7 @@ Nesse repositório, você encontrará uma coleção de **Homebrew Taps**, que pe
 
 ## Contexto e Motivação
 
-Esse repositório foi criado com o objetivo de compartilhar pacotes personalizados que eu desenvolvi e que desejo instalar a partir do Homebrew, além de fornecer uma plataforma para colaboração e contribuição com outros desenvolvedores.
+Minha maior motivação é compartilhar pacotes personalizados que eu desenvolvi e que desejo instalar a partir do Homebrew, além de fornecer uma plataforma para colaboração e contribuição com outros desenvolvedores.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
