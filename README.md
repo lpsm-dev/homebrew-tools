@@ -7,7 +7,8 @@ Hello Human 👽! Bem-vindo ao meu repositório 👋
 
 <img src="https://github.com/lpsm-dev/lpsm-dev/blob/main/.github/assets/homebrew.jpeg" width="350"/>
 
-<br/>
+<br>
+<br>
 
 Aqui você encontrará **meus pacotes do Homebrew** para a **instalação de ferramentas que eu criei**. Fique à vontade para explorar, colaborar e compartilhar 🚀
 
