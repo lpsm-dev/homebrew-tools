@@ -44,7 +44,7 @@ Aqui você encontrará **meus pacotes Homebrew** para a **instalação de ferram
 
 # Visão Geral
 
-Neste repositório, você encontrará uma coleção de fórmulas (taps) para o homebrew, que permitem instalar pacotes que eu criei e que não estão disponíveis no repositório oficial do homebrew.
+Neste repositório, você encontrará uma coleção de fórmulas (taps) para o Homebrew, que permitem instalar pacotes que eu criei e que não estão disponíveis no repositório oficial do Homebrew.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
