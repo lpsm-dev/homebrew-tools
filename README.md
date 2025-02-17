@@ -52,7 +52,7 @@ Nesse repositório, você encontrará uma coleção de `taps` (fórmulas) para o
 
 ## Contexto e Motivação
 
-Esse repositório foi criado com o objetivo de compartilhar pacotes personalizados que eu desenvolvi para o Homebrew, além de fornecer uma plataforma para colaboração e contribuição com outros desenvolvedores.
+Esse repositório foi criado com o objetivo de compartilhar pacotes personalizados que eu desenvolvi e que desejo instalar a partir do Homebrew, além de fornecer uma plataforma para colaboração e contribuição com outros desenvolvedores.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
