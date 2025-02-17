@@ -23,6 +23,11 @@ Fórmulas Homebrew que permitem a instalação de ferramentas através do gerenc
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Visão Geral](#vis%C3%A3o-geral)
+- [Homebrew](#homebrew)
+  - [O que é?](#o-que-%C3%A9)
+  - [Taps](#taps)
+- [Instalação](#instala%C3%A7%C3%A3o)
 - [Contribuição](#contribui%C3%A7%C3%A3o)
 - [Versionamento](#versionamento)
 - [Troubleshooting](#troubleshooting)
