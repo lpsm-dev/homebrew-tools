@@ -34,7 +34,23 @@ Fórmulas Homebrew que permitem a instalação de ferramentas através do gerenc
 
 </details>
 
+# Visão Geral
+
+# Homebrew
+
+## O que é?
+
+O homebrew é um gerenciador de pacotes para macOS (ou Linux), que permite instalar e gerenciar aplicativos e ferramentas de forma simples e eficiente.
+
+## Taps
+
+Os `taps` são repositórios de terceiros que fornecem pacotes instaláveis (fórmulas) para o homebrew. Eles permitem que você instale pacotes adicionais que não estão disponíveis no repositório oficial do homebrew.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # Instalação
+
+Para instalar os meus pacotes, siga os passos abaixo:
 
 ```bash
 brew tap lpsm-dev/tap
