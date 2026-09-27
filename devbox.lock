@@ -1,51 +1,51 @@
 {
   "lockfile_version": "1",
   "packages": {
-    "direnv@2.35.0": {
-      "last_modified": "2025-02-07T11:26:36Z",
-      "resolved": "github:NixOS/nixpkgs/d98abf5cf5914e5e4e9d57205e3af55ca90ffc1d#direnv",
+    "direnv@2.37.1": {
+      "last_modified": "2026-09-27T03:42:02Z",
+      "resolved": "github:NixOS/nixpkgs/8d5d270900d3fc75655ea2d9d248b234f6631439#direnv",
       "source": "devbox-search",
-      "version": "2.35.0",
+      "version": "2.37.1",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/4dg5yb1b41ygk74ghib220aics90p44m-direnv-2.35.0",
+              "path": "/nix/store/jbgvmnj6qmfkdwg7x7qqg2q9ip8hcync-direnv-2.37.1",
               "default": true
             }
           ],
-          "store_path": "/nix/store/4dg5yb1b41ygk74ghib220aics90p44m-direnv-2.35.0"
+          "store_path": "/nix/store/jbgvmnj6qmfkdwg7x7qqg2q9ip8hcync-direnv-2.37.1"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/gk8vgnjw21i4grcvjf6d879a1wysj4aq-direnv-2.35.0",
+              "path": "/nix/store/fy2lqbw0phg94gg6kfh2533l6qci9fa4-direnv-2.37.1",
               "default": true
             }
           ],
-          "store_path": "/nix/store/gk8vgnjw21i4grcvjf6d879a1wysj4aq-direnv-2.35.0"
+          "store_path": "/nix/store/fy2lqbw0phg94gg6kfh2533l6qci9fa4-direnv-2.37.1"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/3zjm59hmy9j95j553dfn1mhqb3kjglmy-direnv-2.35.0",
+              "path": "/nix/store/n51h3cj4vyslkbraxaypsxiya8gjv4wd-direnv-2.37.1",
               "default": true
             }
           ],
-          "store_path": "/nix/store/3zjm59hmy9j95j553dfn1mhqb3kjglmy-direnv-2.35.0"
+          "store_path": "/nix/store/n51h3cj4vyslkbraxaypsxiya8gjv4wd-direnv-2.37.1"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/g7yx0vj7bykfpp27klsa12fcx7pn3sqv-direnv-2.35.0",
+              "path": "/nix/store/xnwlm1b2q78in91whkpn5bdazwahvf2p-direnv-2.37.1",
               "default": true
             }
           ],
-          "store_path": "/nix/store/g7yx0vj7bykfpp27klsa12fcx7pn3sqv-direnv-2.35.0"
+          "store_path": "/nix/store/xnwlm1b2q78in91whkpn5bdazwahvf2p-direnv-2.37.1"
         }
       }
     },
